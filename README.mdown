@@ -1,0 +1,8 @@
+# Railsconf 2010 was great and these are my notes
+
+
+# I have abridged notes from the following talks
+* Bob Martin's Keynote
+* Neal Ford's Keynote
+* Metrics talk
+* Tasty Burgers Talk by Aaron Patterson \(5 stars\)
