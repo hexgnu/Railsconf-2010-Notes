@@ -1,0 +1,61 @@
+# Uncle Bob Keynote: 25 zeros
+
+*We came from stars*
+
+## PDP 8 - Half a million adds a second. laptops can do 2 billion adds a second. 6,000 times faster.
+### Million times more RAM.
+### Several thousand times more space of disk. 
+### 50-80 watts vs 1000s of watts
+
+10^25 better than what we had 40 years ago.  10^25 is number of microns in the nearest star.  10^25 is mass of earth in kilograms.
+
+*In the early days quotes weren't invented*
+
+## The interesting thing is our hardware has improved 10^25 but our software and coding hasn't
+
+# Structured Programming book to go read.  Dykstra
+
+## Structured programming is constrained to sequence, selection, iteration.
+
+*TDD is going the same way that the !GOTO statement went, it will just become part of the "Borg" of our software community*
+
+## Matz started out as just a Perl dialect although now it's more influenced by smalltalk and C. 
+
+## Smaltalk was based on Simula 67, which is based on Algol 60 based on Algol 58 which was written by the same guy as fortran.
+
+## Lisp invented 1958, m expressions translated into s expressions.  Based on assembly language IPL 56.  Assembly Language for Lists.
+
+Java based on hatred of C++.  C++ was invented in '79.  Called it 'C with Classes' which was based on Simula as well.
+
+C 1969 Dennis Richie. Based on B, based on BCPL.  Based on CPL Based on Algol 60.
+
+*Notice how I didn't mention pascal*
+
+*As much as things change, they dont really change that much at all*
+
+## The new ideas we are using today are really just recycled ideas.
+
+## 1962: Paper written about intergalactic computer network.
+
+*The electrons in the internet weigh 2 oz*
+
+*We go through all kinds of hard work to invent new technologies that aren't new*
+
+# Don't test any business rules through the UI.
+
+*All languages are fundamentally the same*
+
+
+*Our languages for the last fifty years have been written around the idea that there is one machine*
+
+## Functional languages are now becoming more interesting now cause of multi-processors
+
+* Haskell
+* Erlang
+* Clojure (HE likes this the most)
+
+# Structure and Interpretations of Computer Programming
+
+*assignment is a complexity generating thing like multi-threads*
+
+

@@ -1,0 +1,27 @@
+Talk about metrics.
+
+* Make tech debt document.
+* All about communication.
+* All about maintainability.
+
+* Refactoring is all about having the right test suite in place.
+
+reek, roodi [pattern], flog, flay, rcov, 
+
+make the tools fail your build
+
+peer review system.
+
+# Reek, exit 1 if not empty
+# flog take fourth line and print out number.  Highest code complexity >= 20 exit 1 or whatever
+
+
+
+So what do you do with all of this: use what works for you.  dont ignore metrics help out a lot
+
+
+aarnbedra.com
+@abedra
+github.com/abedra
+
+

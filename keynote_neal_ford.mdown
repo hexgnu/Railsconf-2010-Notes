@@ -1,0 +1,54 @@
+# Keynote Creativity and Constraints: Neal Ford
+
+## Specific themes invigorates creativity
+
+## Regardless of the costume you can figure out who it is by style.
+
+## Constraints are liberating
+
+*Zen and art of motorcycle maintenance, anecdote: write about county court house, write about brick wall, write about a brick*
+
+*Book yourself only four or five days and force yourself to record, constraint yourself*
+
+From video clip: *Make it harder not easier, build tension, no setlist, no picks taped to the mic*
+
+Book: Dreaming in code. no constraints => Failure.
+
+	public static final void method() {}
+	
+# Sonnet is a very strict writing medium.
+## Within the constraints you see some amazingly creative ideas.
+
+*William Faulkner: "I am a failed poet"*
+
+## Different people have different constraints.
+
+## As a community: ruby and rails community agree on same constraints.
+
+Most terrifying constraint is an easel.
+
+## After photography, painters were no longer responsible for representation but rather interpretation.
+
+## Daguerreotype gave freedom from the *responsibility* of representation
+
+## Java is like the Daguerreotype.
+
+## Software development is a craft
+
+*Art advances the human condition*
+
+*Is is possible to have art in code?*
+
+## Code needs to be non-obfuscating density
+
+
+
+## Six universal signatures in astectics
+* Expertise or virtuosity: tecnical artistic skills are cultivated, recognized, and admired
+* Non utilitarian pleasure: People enjoy art for arts sake, and dont demand that it keep them warm or put food on the table
+* Style: artistic objects and performances satisfy rules of composition that place them in a recognizable style
+* criticism: people make a point of judging, appreciating, and interpreting works of art
+* imitation: with a few important exceptions like abstract painting, works of art.
+* Special focus: art is set aside from ordinary life and made a dramatic focus of experience.
+
+*when you dont create things, you become defined by your tastes rather than ability.  your tastes only narrow and exclude people. so create.*
